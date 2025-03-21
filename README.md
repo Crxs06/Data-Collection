@@ -11,4 +11,7 @@ Scrape weather data (temperature, pressure) from a table.
 Organize data in a Pandas DataFrame.
 Analyze and visualize the data.
 Optionally export to CSV.
+
+
+
 Resources : ChatGpt and Xpert Learning Assistant Chat+
